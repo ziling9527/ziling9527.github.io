@@ -22,7 +22,7 @@ navigation:
 - text: About
   url: /about/
 - text: Blog
-  url: /
+  url: /blog/
 - text: Tags
   url: /tags/
 - text: Archive
