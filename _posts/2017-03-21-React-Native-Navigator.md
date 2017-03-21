@@ -5,10 +5,10 @@ date:   2017-03-21 14:14:00
 categories: ReactNative
 tags: ReactNative
 ---
-### 1、index.android.js
+## 1、index.android.js
 
 
-```highlight javascript
+{% highlight javascript %}
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
@@ -68,12 +68,12 @@ var styles = StyleSheet.create({
 
 AppRegistry.registerComponent('Home', () => Home);
 
-```
+{% endhighlight %}
 
-### 2、Login.js
+## 2、Login.js
 
 
-```highlight javascript
+{% highlight javascript %}
 /**
  * Created by Administrator on 2017/2/23.
  */
@@ -151,10 +151,11 @@ export default class Login extends Component {
         }
     };
 }
-```
+{% endhighlight %}
 
-### 3、MainScene.js
-```highlight javascript
+## 3、MainScene.js
+
+{% highlight javascript %}
 /**
  * Created by Administrator on 2017/2/23.
  */
@@ -254,9 +255,9 @@ var styles = StyleSheet.create({
         height: 56,
     },
 });
-```
+{% endhighlight %}
 
-### 4、参考资料
+## 4、参考资料
 
 1、[ReactNative官方文档](https://facebook.github.io/react-native/docs/using-navigators.html)
 
