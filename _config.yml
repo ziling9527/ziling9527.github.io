@@ -35,15 +35,8 @@ navigation:
 author:         'Android Engineer'
 
 #Social Media links (Use complete URL except for email)
-dribbble:
-email:
+email:          'ziling9527@gmail.com'
 github:         'https://github.com/ziling9527'
-instagram:
-pinterest:
-rss:
-
-# Google Analytics
-gahandler: 'UA-52149651-1'
 
 #if footersvg is 'true' the social media links will be shown top on the copy right in the footer
 footersvg: 'true'
@@ -52,7 +45,7 @@ footersvg: 'true'
 disqushandler: 'testingblogo'
 
 # Blog Configurations
-paginate: 10 # Posts per page on the blog index
+paginate: 5 # Posts per page on the blog index
 paginate_path: '/blog/page:num'
 destination: ./_site
 
