@@ -5,8 +5,10 @@ date:   2017-03-21 14:14:00
 categories: ReactNative
 tags: ReactNative
 ---
-###### 1、index.android.js
-```javascript
+### 1、index.android.js
+
+
+```highlight javascript
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
@@ -68,8 +70,10 @@ AppRegistry.registerComponent('Home', () => Home);
 
 ```
 
-######2、Login.js
-```javascript
+### 2、Login.js
+
+
+```highlight javascript
 /**
  * Created by Administrator on 2017/2/23.
  */
@@ -149,8 +153,8 @@ export default class Login extends Component {
 }
 ```
 
-######3、MainScene.js
-```javascript
+### 3、MainScene.js
+```highlight javascript
 /**
  * Created by Administrator on 2017/2/23.
  */
@@ -251,7 +255,11 @@ var styles = StyleSheet.create({
     },
 });
 ```
-######4、参考资料
+
+### 4、参考资料
+
 1、[ReactNative官方文档](https://facebook.github.io/react-native/docs/using-navigators.html)
+
 2、[ReactNative 中文文档](https://reactnative.cn/docs/0.41/using-navigators.html#content)
+
 3、[新手理解Navigator的教程](http://bbs.reactnative.cn/topic/20/%E6%96%B0%E6%89%8B%E7%90%86%E8%A7%A3navigator%E7%9A%84%E6%95%99%E7%A8%8B)
