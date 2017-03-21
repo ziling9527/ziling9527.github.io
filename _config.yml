@@ -13,7 +13,8 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'ziling9527'
 tagline:          'A Metro theme for Jekyll'
 description:      'ziling9527 blog'
-url:              'http://192.168.1.11:4000'
+# https://ziling9527.github.io/    http://127.0.0.1:4000/
+url:              'https://ziling9527.github.io/'
 baseurl:          ''
 
 # Navigation
@@ -36,7 +37,7 @@ author:         'Android Engineer'
 #Social Media links (Use complete URL except for email)
 dribbble:
 email:
-github:         'https://github.com/olakara'
+github:         'https://github.com/ziling9527'
 instagram:
 pinterest:
 rss:
